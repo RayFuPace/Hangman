@@ -27,4 +27,4 @@ To-Do:
 
 • Better Ascii animation
 
-• Leaderboard for time 
+• Leaderboard for time solved
