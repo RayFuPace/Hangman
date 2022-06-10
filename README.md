@@ -12,6 +12,7 @@ Technology used:
 •MY SQL
 
 Features: 
+
 • A database with 1000 records
 
 • Can be adjusted for new words at users discretion
@@ -19,6 +20,7 @@ Features:
 • Ascii art for the hangman
 
 To-Do:
+
 •Import Database to the cloud
 
 •Better Ascii animation
