@@ -5,11 +5,11 @@ The Database can be adjust directly from the console.
 
 Technology used:
 
-•Python
+• Python
 
-•MongoDB
+• MongoDB
 
-•MY SQL
+• MY SQL
 
 Features: 
 
@@ -21,8 +21,8 @@ Features:
 
 To-Do:
 
-•Import Database to the cloud
+• Import Database to the cloud
 
-•Better Ascii animation
+• Better Ascii animation
 
-•Leaderboard for time 
+• Leaderboard for time 
