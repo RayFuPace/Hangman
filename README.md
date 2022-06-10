@@ -5,8 +5,8 @@ The Database can be adjust directly from the console.
 
 Technology used:
 
-Python
+•Python
 
-MongoDB
+•MongoDB
 
-MY SQL
+•MY SQL
